@@ -1,0 +1,42 @@
+
+===:Fri Jul 21 2017 18:51:16 GMT+0530 (IST):
+Server is running at http://localhost:2020
+===
+
+===:Fri Jul 21 2017 18:51:16 GMT+0530 (IST):
+mongo Db conection successfull
+===
+
+===:Fri Jul 21 2017 18:53:26 GMT+0530 (IST):
+[registered user]
+===
+
+===:Fri Jul 21 2017 18:53:26 GMT+0530 (IST):
+{ response_code: 2000,
+  response_data: 
+   { __v: 0,
+     updatedAt: 2017-07-21T13:23:26.456Z,
+     createdAt: 2017-07-21T13:23:26.456Z,
+     fname: 'second',
+     lname: 'second2',
+     apptype: 'IOS',
+     email: 'second@gmail.com',
+     password: '$2a$10$TWD3t3GG/brdc3FAUIj9s.mX0/gB7EQncOHh3nfMpv9NlgODtqMaG',
+     _id: '5972004e2bc4d82d50490f75',
+     random_pasword_checkin: '',
+     user_type: 'Normal',
+     devicetoken: '12dsfbm345435hjjhgkjg786gh345hj',
+     mobile: '',
+     social_id: '',
+     image_url: '',
+     authtoken: 'fc5fe1c01c25e1f650cd9bce4be88bcba6a53c37fd11804787b2ff5a49548edd' } }
+===
+
+===:Fri Jul 21 2017 18:54:28 GMT+0530 (IST):
+{ user_id: '5972004e2bc4d82d50490f75',
+  fname: 'update',
+  lname: 'update2',
+  devicetoken: 'dfweew347234623hk78997979ni2uy97394',
+  apptype: 'IOS',
+  mobile: '9654875412' }
+===

@@ -1,0 +1,27 @@
+
+===:Fri Jul 21 2017 18:35:09 GMT+0530 (IST):
+Server is running at http://localhost:2020
+===
+
+===:Fri Jul 21 2017 18:35:09 GMT+0530 (IST):
+mongo Db conection successfull
+===
+
+===:Fri Jul 21 2017 18:35:38 GMT+0530 (IST):
+{ user_id: '5971ce598df3731e2cb27c6f',
+  fname: 'update',
+  lname: 'update1',
+  devicetoken: 'dfweew347234623hk78997979ni2uy97394',
+  apptype: 'IOS',
+  mobile: '9548456125' }
+===
+
+===:Fri Jul 21 2017 18:35:38 GMT+0530 (IST):
+{ user_id: '5971ce598df3731e2cb27c6f',
+  fname: 'update',
+  lname: 'update1',
+  devicetoken: 'dfweew347234623hk78997979ni2uy97394',
+  apptype: 'IOS',
+  mobile: '9548456125',
+  image_url: '1500642338864.png' }
+===

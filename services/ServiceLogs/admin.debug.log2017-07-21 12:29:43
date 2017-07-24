@@ -1,0 +1,28 @@
+
+===:Fri Jul 21 2017 17:59:44 GMT+0530 (IST):
+Server is running at http://localhost:2020
+===
+
+===:Fri Jul 21 2017 17:59:44 GMT+0530 (IST):
+mongo Db conection successfull
+===
+
+===:Fri Jul 21 2017 17:59:47 GMT+0530 (IST):
+ReferenceError: arg1 is not defined
+    at async.waterfall.callback.response_code (/media/sankha/640B67534F5C33F1/DemoApp/services/apiService.js:400:34)
+    at nextTask (/media/sankha/640B67534F5C33F1/DemoApp/node_modules/async/dist/async.js:5297:14)
+    at next (/media/sankha/640B67534F5C33F1/DemoApp/node_modules/async/dist/async.js:5304:9)
+    at /media/sankha/640B67534F5C33F1/DemoApp/node_modules/async/dist/async.js:906:16
+    at /media/sankha/640B67534F5C33F1/DemoApp/services/apiService.js:359:21
+    at nextTask (/media/sankha/640B67534F5C33F1/DemoApp/node_modules/async/dist/async.js:5297:14)
+    at next (/media/sankha/640B67534F5C33F1/DemoApp/node_modules/async/dist/async.js:5304:9)
+    at /media/sankha/640B67534F5C33F1/DemoApp/node_modules/async/dist/async.js:906:16
+    at /media/sankha/640B67534F5C33F1/DemoApp/services/apiService.js:348:21
+    at nextTask (/media/sankha/640B67534F5C33F1/DemoApp/node_modules/async/dist/async.js:5297:14)
+    at Object.waterfall (/media/sankha/640B67534F5C33F1/DemoApp/node_modules/async/dist/async.js:5307:5)
+    at Object.updateProfileData (/media/sankha/640B67534F5C33F1/DemoApp/services/apiService.js:341:15)
+    at /media/sankha/640B67534F5C33F1/DemoApp/routes/apiRoutes.js:39:17
+    at Layer.handle [as handle_request] (/media/sankha/640B67534F5C33F1/DemoApp/node_modules/express/lib/router/layer.js:95:5)
+    at next (/media/sankha/640B67534F5C33F1/DemoApp/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/media/sankha/640B67534F5C33F1/DemoApp/node_modules/express/lib/router/route.js:112:3)
+===

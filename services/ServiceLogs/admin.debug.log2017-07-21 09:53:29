@@ -1,0 +1,60 @@
+
+===:Fri Jul 21 2017 15:23:29 GMT+0530 (IST):
+Server is running at http://localhost:2020
+===
+
+===:Fri Jul 21 2017 15:23:29 GMT+0530 (IST):
+mongo Db conection successfull
+===
+
+===:Fri Jul 21 2017 15:25:35 GMT+0530 (IST):
+[user already registered]
+===
+
+===:Fri Jul 21 2017 15:25:35 GMT+0530 (IST):
+{ response_code: 5000,
+  response_message: 'user already registered',
+  response_data: 
+   { _id: '5971ce598df3731e2cb27c6f',
+     updatedAt: 2017-07-21T09:50:17.902Z,
+     createdAt: 2017-07-21T09:50:17.902Z,
+     fname: 'testfirst',
+     lname: 'test',
+     apptype: 'IOS',
+     email: 'test@gmail.com',
+     password: '$2a$10$eGVCcDSnAJupcscp7M19q.oEn0WlvoQF2XHmOrxohf05yIqkxsUbC',
+     __v: 0,
+     random_pasword_checkin: '',
+     user_type: 'Normal',
+     devicetoken: '12frt124fffer1233fsewfrwerwrw',
+     mobile: '',
+     social_id: '',
+     image_url: '',
+     authtoken: 'f4a7fa7a151ea24f0c361932811cc83569eaec33afd46967b89f9f94e33508e1' } }
+===
+
+===:Fri Jul 21 2017 15:26:23 GMT+0530 (IST):
+{ email: 'test@gmail.com',
+  password: '7c4a8d09ca3762af61e59520943dc26494f8941b',
+  devicetoken: 'eUXuKSxPW-o:APA91bHT3FDhWBeUAPfe1Urxg_iEFdf6FJfxvMd_8v2VHLF_HiokoE7F_aqZ9DeDeCAQXzrjQWGpRKXgKLbqYRE45uWCoJYOWmHu3qsaN_tCCbhQmk2LU-OSPrxDQu05iD3Sr1lcv1c-',
+  apptype: 'ANDROID' }
+===
+
+===:Fri Jul 21 2017 15:26:23 GMT+0530 (IST):
+{ _id: '5971ce598df3731e2cb27c6f',
+  updatedAt: 2017-07-21T09:50:17.902Z,
+  createdAt: 2017-07-21T09:50:17.902Z,
+  fname: 'testfirst',
+  lname: 'test',
+  apptype: 'IOS',
+  email: 'test@gmail.com',
+  password: '$2a$10$eGVCcDSnAJupcscp7M19q.oEn0WlvoQF2XHmOrxohf05yIqkxsUbC',
+  __v: 0,
+  random_pasword_checkin: '',
+  user_type: 'Normal',
+  devicetoken: '12frt124fffer1233fsewfrwerwrw',
+  mobile: '',
+  social_id: '',
+  image_url: '',
+  authtoken: 'f4a7fa7a151ea24f0c361932811cc83569eaec33afd46967b89f9f94e33508e1' }
+===

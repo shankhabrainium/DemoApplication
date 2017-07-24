@@ -1,0 +1,106 @@
+
+===:Fri Jul 21 2017 13:05:28 GMT+0530 (IST):
+Server is running at http://localhost:2020
+===
+
+===:Fri Jul 21 2017 13:05:28 GMT+0530 (IST):
+mongo Db conection successfull
+===
+
+===:Fri Jul 21 2017 13:08:31 GMT+0530 (IST):
+[registered user]
+===
+
+===:Fri Jul 21 2017 13:08:31 GMT+0530 (IST):
+{ response_code: 2000,
+  response_data: 
+   { __v: 0,
+     updatedAt: 2017-07-21T07:38:30.867Z,
+     createdAt: 2017-07-21T07:38:30.867Z,
+     fname: 'bitUser',
+     lname: 'bit',
+     apptype: 'IOS',
+     email: 'bit@mailinator.com',
+     password: '$2a$10$ovniuU0WBq8S8zJzThuOvODIhp6BDEu4nBwWL2Wd/u2AAcVReegEG',
+     _id: '5971af76586df51621debae8',
+     random_pasword_checkin: '',
+     rating: 0,
+     profile_type: 'Learner',
+     cat_selected: false,
+     user_type: 'Normal',
+     devicetoken: '12frt124fffer1233',
+     mobile: '',
+     social_id: '',
+     image_url: '',
+     paypal_email: '',
+     loc: [],
+     location: '',
+     category: '',
+     authtoken: '124ff7ac53698dfa67e0e4d00d87d7884ea0b3d70ae4e3765cb723edf81cadfe' } }
+===
+
+===:Fri Jul 21 2017 14:34:51 GMT+0530 (IST):
+[user already registered]
+===
+
+===:Fri Jul 21 2017 14:34:51 GMT+0530 (IST):
+{ response_code: 5000,
+  response_message: 'user already registered',
+  response_data: 
+   { _id: '5971af76586df51621debae8',
+     updatedAt: 2017-07-21T07:38:30.867Z,
+     createdAt: 2017-07-21T07:38:30.867Z,
+     fname: 'bitUser',
+     lname: 'bit',
+     apptype: 'IOS',
+     email: 'bit@mailinator.com',
+     password: '$2a$10$ovniuU0WBq8S8zJzThuOvODIhp6BDEu4nBwWL2Wd/u2AAcVReegEG',
+     __v: 0,
+     random_pasword_checkin: '',
+     rating: 0,
+     profile_type: 'Learner',
+     cat_selected: false,
+     user_type: 'Normal',
+     devicetoken: '12frt124fffer1233',
+     mobile: '',
+     social_id: '',
+     image_url: '',
+     paypal_email: '',
+     loc: [],
+     location: '',
+     category: '',
+     authtoken: '124ff7ac53698dfa67e0e4d00d87d7884ea0b3d70ae4e3765cb723edf81cadfe' } }
+===
+
+===:Fri Jul 21 2017 14:43:02 GMT+0530 (IST):
+{ email: 'bit@mailinator.com',
+  password: '7c4a8d09ca3762af61e59520943dc26494f8941b',
+  devicetoken: 'eUXuKSxPW-o:APA91bHT3FDhWBeUAPfe1Urxg_iEFdf6FJfxvMd_8v2VHLF_HiokoE7F_aqZ9DeDeCAQXzrjQWGpRKXgKLbqYRE45uWCoJYOWmHu3qsaN_tCCbhQmk2LU-OSPrxDQu05iD3Sr1lcv1c-',
+  apptype: 'IOS' }
+===
+
+===:Fri Jul 21 2017 14:43:02 GMT+0530 (IST):
+{ _id: '5971af76586df51621debae8',
+  updatedAt: 2017-07-21T07:38:30.867Z,
+  createdAt: 2017-07-21T07:38:30.867Z,
+  fname: 'bitUser',
+  lname: 'bit',
+  apptype: 'IOS',
+  email: 'bit@mailinator.com',
+  password: '$2a$10$ovniuU0WBq8S8zJzThuOvODIhp6BDEu4nBwWL2Wd/u2AAcVReegEG',
+  __v: 0,
+  random_pasword_checkin: '',
+  rating: 0,
+  profile_type: 'Learner',
+  cat_selected: false,
+  user_type: 'Normal',
+  devicetoken: '12frt124fffer1233',
+  mobile: '',
+  social_id: '',
+  image_url: '',
+  paypal_email: '',
+  loc: [],
+  location: '',
+  category: '',
+  authtoken: '124ff7ac53698dfa67e0e4d00d87d7884ea0b3d70ae4e3765cb723edf81cadfe' }
+===

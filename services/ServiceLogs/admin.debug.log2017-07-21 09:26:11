@@ -1,0 +1,15 @@
+
+===:Fri Jul 21 2017 14:56:11 GMT+0530 (IST):
+Server is running at http://localhost:2020
+===
+
+===:Fri Jul 21 2017 14:56:11 GMT+0530 (IST):
+mongo Db conection successfull
+===
+
+===:Fri Jul 21 2017 14:56:15 GMT+0530 (IST):
+{ email: 'bit@mailinator.com',
+  password: '7c4a8d09ca3762af61e59520943dc26494f8941b',
+  devicetoken: 'eUXuKSxPW-o:APA91bHT3FDhWBeUAPfe1Urxg_iEFdf6FJfxvMd_8v2VHLF_HiokoE7F_aqZ9DeDeCAQXzrjQWGpRKXgKLbqYRE45uWCoJYOWmHu3qsaN_tCCbhQmk2LU-OSPrxDQu05iD3Sr1lcv1c-',
+  apptype: 'IOS' }
+===

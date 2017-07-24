@@ -1,0 +1,36 @@
+
+===:Fri Jul 21 2017 18:07:25 GMT+0530 (IST):
+Server is running at http://localhost:2020
+===
+
+===:Fri Jul 21 2017 18:07:25 GMT+0530 (IST):
+mongo Db conection successfull
+===
+
+===:Fri Jul 21 2017 18:07:28 GMT+0530 (IST):
+SyntaxError: Unexpected token -
+    at parse (/media/sankha/640B67534F5C33F1/DemoApp/node_modules/body-parser/lib/types/json.js:83:15)
+    at /media/sankha/640B67534F5C33F1/DemoApp/node_modules/body-parser/lib/read.js:116:18
+    at invokeCallback (/media/sankha/640B67534F5C33F1/DemoApp/node_modules/raw-body/index.js:262:16)
+    at done (/media/sankha/640B67534F5C33F1/DemoApp/node_modules/raw-body/index.js:251:7)
+    at IncomingMessage.onEnd (/media/sankha/640B67534F5C33F1/DemoApp/node_modules/raw-body/index.js:307:7)
+    at emitNone (events.js:86:13)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+===
+
+===:Fri Jul 21 2017 18:07:45 GMT+0530 (IST):
+SyntaxError: Unexpected token -
+    at parse (/media/sankha/640B67534F5C33F1/DemoApp/node_modules/body-parser/lib/types/json.js:83:15)
+    at /media/sankha/640B67534F5C33F1/DemoApp/node_modules/body-parser/lib/read.js:116:18
+    at invokeCallback (/media/sankha/640B67534F5C33F1/DemoApp/node_modules/raw-body/index.js:262:16)
+    at done (/media/sankha/640B67534F5C33F1/DemoApp/node_modules/raw-body/index.js:251:7)
+    at IncomingMessage.onEnd (/media/sankha/640B67534F5C33F1/DemoApp/node_modules/raw-body/index.js:307:7)
+    at emitNone (events.js:86:13)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+===

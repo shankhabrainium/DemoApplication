@@ -1,0 +1,148 @@
+
+===:Fri Jul 21 2017 16:32:15 GMT+0530 (IST):
+Server is running at http://localhost:2020
+===
+
+===:Fri Jul 21 2017 16:32:15 GMT+0530 (IST):
+mongo Db conection successfull
+===
+
+===:Fri Jul 21 2017 16:33:53 GMT+0530 (IST):
+{ fname: 'fb',
+  lname: 'fb',
+  devicetoken: '12frt124ffsdadsdfer1233',
+  apptype: 'ANDROID',
+  email: 'fb@facebook.com',
+  image_url: 'http://lorempixel.com/300/200/',
+  social_id: 'ffff23456',
+  _id: 5971df999301e6244c0dbdfc,
+  authtoken: 'b03c6fd06abec818d71710c4b53ceeed380ff3fa01462e04b77f074956eeb786',
+  user_type: 'Social' }
+===
+
+===:Fri Jul 21 2017 16:33:53 GMT+0530 (IST):
+{ _id: '5971df18db6e69223ed24a2d',
+  updatedAt: 2017-07-21T11:01:44.033Z,
+  createdAt: 2017-07-21T11:01:44.033Z,
+  fname: 'fb',
+  lname: 'fb',
+  apptype: 'ANDROID',
+  email: 'fb@facebook.com',
+  __v: 0,
+  random_pasword_checkin: '',
+  user_type: 'Social',
+  devicetoken: '12frt124ffsdadsdfer1233',
+  mobile: '',
+  social_id: 'ffff23456',
+  image_url: 'http://lorempixel.com/300/200/',
+  authtoken: 'f3e10d7edb6831d9c60bd89d53dc01157fb161eeb632cf2b8c351b9e01c8fc6b' }
+===
+
+===:Fri Jul 21 2017 16:33:53 GMT+0530 (IST):
+[user already registered]
+===
+
+===:Fri Jul 21 2017 16:35:41 GMT+0530 (IST):
+{ fname: 'fb',
+  lname: 'fb',
+  devicetoken: '12frt124ffsdadsdfer1233',
+  apptype: 'ANDROID',
+  email: 'fb@facebook.com',
+  image_url: 'http://lorempixel.com/300/200/',
+  social_id: 'ffff23456',
+  _id: 5971e0059301e6244c0dbdfd,
+  authtoken: 'fffccc2beac95322409421b382a4feeb53220c064e4f9f1c9fae20d28508cd17',
+  user_type: 'Social' }
+===
+
+===:Fri Jul 21 2017 16:35:41 GMT+0530 (IST):
+{ _id: '5971df18db6e69223ed24a2d',
+  updatedAt: 2017-07-21T11:03:53.194Z,
+  createdAt: 2017-07-21T11:01:44.033Z,
+  fname: 'fb',
+  lname: 'fb',
+  apptype: 'ANDROID',
+  email: 'fb@facebook.com',
+  __v: 0,
+  random_pasword_checkin: '',
+  user_type: 'Social',
+  devicetoken: '12frt124ffsdadsdfer1233',
+  mobile: '',
+  social_id: 'ffff23456',
+  image_url: 'http://lorempixel.com/300/200/',
+  authtoken: 'b03c6fd06abec818d71710c4b53ceeed380ff3fa01462e04b77f074956eeb786' }
+===
+
+===:Fri Jul 21 2017 16:35:41 GMT+0530 (IST):
+[user already registered]
+===
+
+===:Fri Jul 21 2017 16:38:22 GMT+0530 (IST):
+{ fname: 'fb',
+  lname: 'fb',
+  devicetoken: '12frt124ffsdadsdfer1233',
+  apptype: 'ANDROID',
+  email: 'sasd@facebook.com',
+  image_url: 'http://lorempixel.com/300/200/',
+  social_id: 'ffff23456',
+  _id: 5971e0a69301e6244c0dbdfe,
+  authtoken: '3840ffdf0022f110754737d87aa28ef8824d1367d891dbb01729dd36e1e630aa',
+  user_type: 'Social' }
+===
+
+===:Fri Jul 21 2017 16:38:22 GMT+0530 (IST):
+{ _id: '5971df18db6e69223ed24a2d',
+  updatedAt: 2017-07-21T11:05:41.855Z,
+  createdAt: 2017-07-21T11:01:44.033Z,
+  fname: 'fb',
+  lname: 'fb',
+  apptype: 'ANDROID',
+  email: 'fb@facebook.com',
+  __v: 0,
+  random_pasword_checkin: '',
+  user_type: 'Social',
+  devicetoken: '12frt124ffsdadsdfer1233',
+  mobile: '',
+  social_id: 'ffff23456',
+  image_url: 'http://lorempixel.com/300/200/',
+  authtoken: 'fffccc2beac95322409421b382a4feeb53220c064e4f9f1c9fae20d28508cd17' }
+===
+
+===:Fri Jul 21 2017 16:38:22 GMT+0530 (IST):
+[user already registered]
+===
+
+===:Fri Jul 21 2017 16:42:41 GMT+0530 (IST):
+{ fname: 'fb',
+  lname: 'fb',
+  devicetoken: '12frt124ffsdadsdfer1233',
+  apptype: 'ANDROID',
+  email: 'sasd@facebook.com',
+  image_url: 'http://lorempixel.com/300/200/',
+  social_id: 'ffff2345dd6',
+  _id: 5971e1a99301e6244c0dbe00,
+  authtoken: 'a4f53ccbb6d8451667b1540418ab9769418afa9530bca4eaa58c1e631b8f06c0',
+  user_type: 'Social' }
+===
+
+===:Fri Jul 21 2017 16:42:41 GMT+0530 (IST):
+{ _id: '5971e1649301e6244c0dbdff',
+  updatedAt: 2017-07-21T11:11:32.861Z,
+  createdAt: 2017-07-21T11:11:32.861Z,
+  fname: 'fb',
+  lname: 'fb',
+  apptype: 'ANDROID',
+  email: 'sasd@facebook.com',
+  __v: 0,
+  random_pasword_checkin: '',
+  user_type: 'Social',
+  devicetoken: '12frt124ffsdadsdfer1233',
+  mobile: '',
+  social_id: 'ffff2345dd6',
+  image_url: 'http://lorempixel.com/300/200/',
+  authtoken: '1dfa8a66e19acd416704a27f1b89a2e0fe67fa45e25702c6de1c07d0e1007fac' }
+===
+
+===:Fri Jul 21 2017 16:42:41 GMT+0530 (IST):
+[user already registered]
+===
